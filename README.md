@@ -17,7 +17,6 @@ Here are some ideas to get you started:
 
 + ![sumy7](https://komarev.com/ghpvc/?username=DevilC0822)
 + ![sumy7](https://visitor-badge.glitch.me/badge?page_id=DevilC0822.profile)
-+ 
 
 ### Tags
 
