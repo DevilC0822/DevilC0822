@@ -15,15 +15,23 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
+### Tags
+
+
+
++ ![sumy7](https://komarev.com/ghpvc/?username=DevilC0822)
++ ![sumy7](https://visitor-badge.glitch.me/badge?page_id=DevilC0822.profile)
 - 🌱 Currently working in DaLian, China.
 
 - 🌐 &#160; ![HTML5](https://img.shields.io/badge/-HTML5-333333?style=flat&logo=HTML5)
 ![Vue.js](https://img.shields.io/badge/-VueJS-333333?style=flat&logo=Vue.js)
 ![Node.js](https://img.shields.io/badge/-Node.js-333333?style=flat&logo=node.js)
 
+
+
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=DevilC0822&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
 
-![booms21](https://github-readme-stats.vercel.app/api?username=DevilC0822&show_icons=true&include_all_commits=true?count_private=true?include_all_commits=true&theme=vue)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=DevilC0822&bg_color=30,e96443,904e95&title_color=fff&text_color=fff)
 
 
