@@ -16,6 +16,10 @@ Here are some ideas to get you started:
 -->
 
 
+- 🌐 &#160; ![HTML5](https://img.shields.io/badge/-HTML5-333333?style=flat&logo=HTML5)
+![Node.js](https://img.shields.io/badge/-Node.js-333333?style=flat&logo=node.js)
+![Vue.js](https://img.shields.io/badge/-VueJS-333333?style=flat&logo=Vue.js)
+
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=DevilC0822&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
 
