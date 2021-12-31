@@ -17,3 +17,6 @@ Here are some ideas to get you started:
 
 
 ![booms21](https://github-readme-stats.vercel.app/api?username=DevilC0822&show_icons=true&include_all_commits=true?count_private=true?include_all_commits=true&theme=vue)
+
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=DevilC0822&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
